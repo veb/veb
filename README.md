@@ -20,3 +20,5 @@ I'm Mike, and I'm a software developer based in [Dunedin](https://en.wikipedia.o
 I have a [Twitter](https://twitter.com/vebbed), a [LinkedIn](https://www.linkedin.com/in/vebbed/) and I also help run the [DevelopNZ Slack Community](https://dev.elop.nz/) so by all means, come chat with us! 🙃
 
 I also have a blog that I never post to (like most of us, right? right...? hello?) over at https://veb.co.nz 😇
+
+I've also been rather interested in the Federation (like Mastodon and Pixelfed) and made https://owlephant.app/ but I was unable to drum up any open source funding for the project so... maybe one day. (*glances at web3*)

@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Mike, and I'm a software developer based in [Dunedin](https://en.wikipedia.org/wiki/Dunedin), New Zealand and I work remotely for an excellent company, they're wonderful! I'm a big softie when it comes to accessibility as I was born deaf, but received an cochlear implant some years back allowing me to hear pretty well. (Seriously, Cochlear Implant tech is crazy cool).
+
+I have a [Twitter](https://twitter.com/vebbed) and a [LinkedIn](https://www.linkedin.com/in/vebbed/) and I also help run the [DevelopNZ Slack Community](https://de.velop.nz) so by all means, come chat with us! 🙃

@@ -21,4 +21,4 @@ I have a [Twitter](https://twitter.com/vebbed), a [LinkedIn](https://www.linkedi
 
 I also have a blog that I never post to (like most of us, right? right...? hello?) over at https://veb.co.nz 😇
 
-I've also been rather interested in the Federation (like Mastodon and Pixelfed) and made https://owlephant.app/ but I was unable to drum up any open source funding for the project so... maybe one day. (*👀 glances at web3*)
+I've also been rather interested in [federated social network](https://en.wikipedia.org/wiki/Distributed_social_network)s (like Mastodon and Pixelfed) and made https://owlephant.app/ but I was unable to drum up any open source funding for the project so... maybe one day. (*👀 glances at web3*)

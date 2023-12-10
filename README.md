@@ -1,15 +1,6 @@
 
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=veb&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=000&show=reviews,prs_merged&rank_icon=percentile" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veb&layout=compact&hide_border=true&hide_progress=true&card_width=320&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=000&langs_count=20" />
-</a>
-
--
-
 I'm Mike, also known as "veb". I'm a software developer located in [Dunedin. New Zealand](https://en.wikipedia.org/wiki/Dunedin), and I'm privileged to work remotely for a remarkable company. My commitment to accessibility (a11y) is deeply personal, as I was born deaf. However, cochlear implant tech basically turned me into a cyborg and I can hear pretty well now. (seriously, CI tech is magic).
 
 I have a [Twitter](https://twitter.com/vebbed), a [LinkedIn](https://www.linkedin.com/in/vebbed/) - feel free to reach out!
